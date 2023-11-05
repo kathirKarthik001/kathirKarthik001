@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **kathirkarthik001@gmail.com**
 
-- ⚡ Fun fact **Love at first site ->**  <a href="https://kathirkarthik001.github.io/Trello_Responsive_Site/" target="blank">
-Trello </a>
+- ⚡ Fun fact **Love at first site -> https://kathirkarthik001.github.io/Trello_Responsive_Site/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
