@@ -1,4 +1,4 @@
-<h1 align="center"><code>Hello, World! I'm Kathir!</code> </h1>
+<h1 align="center"><code>Hello, World!</code> </h1>
 <h3 align="center">Crafting Digital Experiences from the Heart of India</h3>
 
 <div align="center" style="display: flex; align-items: center; justify-content:center;">
